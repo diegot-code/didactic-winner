@@ -1,0 +1,36 @@
+/* All Selector */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background: #f1f1f1;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Class */
+
+.f-b {
+  color: brown;
+}
+/* ID */
+
+#unordered-list {
+  font-size: 30px;
+}
